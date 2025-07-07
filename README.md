@@ -80,7 +80,7 @@ Uygulamanın amacı, şeker hastalarının sağlıklı ve kontrollü beslenmeler
 - **Figma** üzerinden UI tasarımı yapmak için planlama yapıldı ancak henüz taslak tasarım çizilmedi.
 - Veri kaynağı olarak kullanılabilecek besin veri setleri araştırılmaya başlandı.
 - AI öneri sistemine yönelik fikirler ortaya atıldı fakat teknik detay kararı verilmedi.
-- İletişim için **WhatsApp grubu** kuruldu. Gerekli olursa **Discord** da kullanılacak.
+- İletişim için **WhatsApp grubu** kuruldu. Gerekli olursa **Zoom* da kullanılacak.
 
 ---
 
