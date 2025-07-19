@@ -155,6 +155,9 @@ Ancak ekip içi iletişimde yaşanan yavaşlık ve eksiklik nedeniyle Zoom üzer
 Tüm Daily Scrum süreci WhatsApp grubu üzerinden yürütülmüştür.
 
 ---
+<img width="1510" height="572" alt="sprint2" src="https://github.com/user-attachments/assets/34777ecc-08a9-4c87-9e7d-8c425e6cc024" />
+
+
 
 ## SPRINT NOTLARI
 
