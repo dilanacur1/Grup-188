@@ -138,5 +138,82 @@ Projenin toplamında 36 puanlık iş hedeflendi. İlk sprint, takım oluşumu ve
 
 ---
 
+DiaSugarCare – SPRINT 2 RAPORU
+Sprint içinde tamamlanması tahmin edilen puan: 10 Puan Tamamlanan puan: 5 Puan
+(Not: Takım içi iletişim eksikliği ve iş bölümündeki dengesizlik sebebiyle planlanan işlerin bir kısmı tamamlanamamıştır.)
+
+Daily Scrum:
+Daily Scrum toplantıları WhatsApp üzerinden devam etmiştir. Ancak ekip içi iletişimde yaşanan yavaşlık ve eksiklik nedeniyle Zoom üzerinden bir toplantı gerçekleştirilememiştir. Tüm Daily Scrum süreci WhatsApp grubu üzerinden yürütülmüştür.
+
+Sprint Notları
+Figma’da temel arayüz tasarımına başlandı; ana sayfa ve besin ekleme ekranı için taslak eskizler hazırlandı.
+Besin veri setleri araştırıldı ve güvenilir kaynaklar belirlendi. Veri temizliği için planlama yapıldı ancak henüz başlamadı.
+Şeker hesaplama fonksiyonu için temel yapıyı tartıştık, henüz kodlama başlamadı.
+Takım WhatsApp üzerinden iletişime devam etti, kısa günlük toplantılar yapıldı.
+GitHub Projects sprint board’u kuruldu, görevler listeye eklendi ve takip edilmeye başlandı.
+AI öneri sistemi için ilk fikirler paylaşıldı, teknik detaylar sonraki sprinte bırakıldı.
+
+Sprint İçinde Tamamlanması Beklenen Puan
+Toplam hedef puan: 36
+Sprint 1 hedefi: 10
+Sprint 2 hedefi: 10
+
+Gerçekleştirilen Puan
+Sprint 2’de tamamlanan puan: 5 (araştırma, tasarım taslağı ve planlama ağırlıklı)
+
+Tamamlanan Backlog Görevleri
+User Story	Açıklama	Puan	Durum	Sorumlu
+Arayüz Tasarımı Eskizleri	Figma’da ana sayfa ve besin ekleme ekranı eskizleri hazırlandı	3	Başlandı	Web Geliştirici
+Besin Veri Seti Araştırması	Veri kaynakları belirlendi, temizleme için planlama yapıldı	2	Planlandı	Veri Bilimci
+Şeker Hesaplama Planlaması	Fonksiyon yapısı tartışıldı, kodlama bekliyor	1	Planlandı	Web Geliştirici
+İletişim ve Takım Koordinasyonu	WhatsApp üzerinden toplantılar düzenli yapıldı	1	Tamamlandı	Tüm Takım
+Sprint Board Oluşturma	GitHub Projects üzerinde board kuruldu, görevler eklendi	1	Tamamlandı	Scrum Master
+AI Öneri Sistemi Konsepti	Fikirler paylaşıldı, teknik çalışma sonraki sprintte	1	Başlandı	AI Uzmanı
+
+Sprint Review
+Tasarım taslakları tamamlandı.
+
+Veri kaynakları incelendi, veri temizliği için hazırlıklar sürüyor.
+
+Şeker hesaplama fonksiyonunun temeli tartışıldı.
+
+Takım içi iletişim düzenli ve verimli.
+
+Sprint board kullanımı başlatıldı.
+
+AI öneri sistemi hakkında ön görüşmeler yapıldı.
+
+Sprint Review Katılımcıları
+Simge Yiğit (Product Owner)
+
+Dilan Acur (Scrum Master)
+
+Ahmet Karpuz (Veri Bilimci)
+
+Serdar Acar (AI Uzmanı)
+
+Mert D. (Developer)
+
+Sprint Retrospektifi
+Kodlama başlamadı, sonraki sprintte başlayacak.
+
+Tasarım sürecinin hızlandırılması gerekiyor.
+
+Veri temizliği öncelik olmalı.
+
+İletişim düzenli devam ediyor.
+
+Sprint board ekran görüntüleri 3. sprintte eklenecek.
+
+Sprint 3 Planı
+Arayüz tasarımının tamamlanması ve kodlama başlangıcı
+
+Şeker hesaplama fonksiyonunun geliştirilmesi
+
+Veri temizliğinin tamamlanması
+
+AI öneri sistemi teknik altyapısının kurulması
+
+Sprint board görsellerinin eklenmesi
 
 
