@@ -138,9 +138,9 @@ Projenin toplamında 36 puanlık iş hedeflendi. İlk sprint, takım oluşumu ve
 
 ---
 
-# DIASUGARCARE – SPRINT 2 RAPORU
+# DiaSugarCare – SPRINT-2 Raporu 
 
-## SPRINT PUANI
+
 
 **Sprint içinde tamamlanması tahmin edilen puan:** 10 Puan  
 **Tamamlanan puan:** 5 Puan  
@@ -148,7 +148,7 @@ Projenin toplamında 36 puanlık iş hedeflendi. İlk sprint, takım oluşumu ve
 
 ---
 
-## DAILY SCRUM
+## Daily Scrum
 
 Daily Scrum toplantıları WhatsApp üzerinden devam etmiştir.  
 Ancak ekip içi iletişimde yaşanan yavaşlık ve eksiklik nedeniyle Zoom üzerinden bir toplantı gerçekleştirilememiştir.  
@@ -164,6 +164,11 @@ Tüm Daily Scrum süreci WhatsApp grubu üzerinden yürütülmüştür.
 - Takım WhatsApp üzerinden iletişime devam etti, kısa günlük toplantılar yapıldı.  
 - GitHub Projects sprint board’u kuruldu, görevler listeye eklendi ve takip edilmeye başlandı.  
 - AI öneri sistemi için ilk fikirler paylaşıldı, teknik detaylar sonraki sprinte bırakıldı.
+
+### Sprint 2 Board Update  
+**Sprint 2 Board Screenshot:**  
+![Sprint 2 Board]("C:\Users\dilan\OneDrive\Masaüstü\Ekran görüntüsü 2025-07-19 181528.png")
+
 
 ---
 
