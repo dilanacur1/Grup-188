@@ -174,7 +174,7 @@ Tüm Daily Scrum süreci WhatsApp grubu üzerinden yürütülmüştür.
 <img width="1510" height="572" alt="sprint2" src="https://github.com/user-attachments/assets/4575c8f1-d475-4de9-b186-90dfd24db040" />
 
 
-### Ürün Durumu: Ekran Görüntüleri:
+### Ürün Durumu: Ekran Görüntüsü ve Arayüzü:
 
 
 ![IMG-20250708-WA0002](https://github.com/user-attachments/assets/f5b49ea7-347e-477b-bd80-12fd205807ac)
