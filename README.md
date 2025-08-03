@@ -318,10 +318,10 @@ Dilan Acur, Simge Yiğit , Ahmet Karpuz, Serdar Acar
 ---
 
 ## Sprint Retrospektifi  
-- Rol dağılımındaki dengesizlikler projeyi olumsuz etkiledi.  
+-  Chatbot başarıyla entegre edilmiştir 
 - İletişim yetersizliği nedeniyle planlanan işleri tamamlamak zor oldu.  
 - Takım koordinasyonu ve iş paylaşımı konusunda iyileştirmeler yapılmalı.  
-- Gelecek sprintlerde bu sorunların çözülmesi öncelikli hedef olarak belirlendi.
+- 
 
 ---
 
