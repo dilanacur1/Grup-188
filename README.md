@@ -262,9 +262,24 @@ Daily Scrum toplantıları WhatsApp üzerinden düzenli olarak gerçekleştirilm
 
 ---
 
-## Figma: 
+Figma Arayüz: 
 
 https://www.figma.com/make/gb0N9WztEAx5xSxfkrn26k/DiaSugarCare-Mobile-Health-App?node-id=0-1&p=f&t=negoSaaoRGgeR4Ku-0&fullscreen=1
+
+## Ürün Durumu: Ekran görüntüleri:
+
+
+![IMG-20250803-WA0026](https://github.com/user-attachments/assets/13f8cf7a-ff66-4814-abad-1680a2ba4d68)![IMG-20250803-WA0022](https://github.com/user-attachments/assets/76c6f0a5-27bc-4f9a-9582-4fd0b5b5bf82)
+![IMG-20250803-WA0023](https://github.com/user-attachments/assets/b152026d-3e7b-4235-b56a-a7bfbb286c20)
+![IMG-20250803-WA0018](https://github.com/user-attachments/assets/525da577-28e2-47c5-b534-f52b45d1b225)
+![IMG-20250803-WA0024](https://github.com/user-attachments/assets/9870bcd0-0888-4395-a12c-c3c2e6f3e371)
+![IMG-20250803-WA0025](https://github.com/user-attachments/assets/dc23bd2c-a1d5-4c40-9158-592be98990ca)
+![IMG-20250803-WA0021](https://github.com/user-attachments/assets/77c2a0ab-b531-4dc4-bbd1-1674d574eee3)
+![IMG-20250803-WA0020](https://github.com/user-attachments/assets/6f83f52d-04ed-4c42-a436-6e6e1e0b0d82)
+
+
+
+
 
 ## Sprint İçinde Tamamlanması Beklenen Puan  
 Toplam hedef puan: 36  
@@ -281,11 +296,11 @@ Sprint 3’te tamamlanan puan: 12 (tasarım tamamlanması, chatbot entegrasyonu 
 
 ## Tamamlanan Backlog Görevleri
 
-| User Story                 | Açıklama                                           | Puan | Durum     | Sorumlu        |
-|---------------------------|---------------------------------------------------|-------|-----------|----------------|
-| Arayüz Tasarımının Tamamlanması | Figma'da uygulama arayüzü tamamlandı              | 6     | Tamamlandı| Web Geliştirici|
-| Web Versiyonun Hazırlanması| Uygulama web versiyonu olarak tasarlandı           | 4     | Tamamlandı| Web Geliştirici|
-| Chatbot Entegrasyonu       | Diyabet hastaları için öneri veren chatbot eklendi| 4     | Tamamlandı| AI Uzmanı      |
+| User Story                 | Açıklama                                          | 
+|---------------------------|---------------------------------------------------|
+| Arayüz Tasarımının Tamamlanması | Figma'da uygulama arayüzü tamamlandı         |   
+| Web Versiyonun Hazırlanması| Uygulama web versiyonu olarak tasarlandı           | 
+| Chatbot Entegrasyonu       | Diyabet hastaları için öneri veren chatbot eklendi| 
 
 ---
 
