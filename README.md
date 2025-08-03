@@ -238,3 +238,80 @@ Tüm Daily Scrum süreci WhatsApp grubu üzerinden yürütülmüştür.
 - Veri temizliğinin tamamlanması  
 - AI öneri sistemi teknik altyapısının kurulması  
 - Sprint board görsellerinin eklenmesi
+
+
+# DiaSugarCare – SPRINT 3 RAPORU
+
+**Sprint içinde tamamlanması tahmin edilen puan:**  
+Toplam hedef puan 20 olarak belirlenmiştir.
+
+---
+
+## Daily Scrum  
+Daily Scrum toplantıları WhatsApp üzerinden düzenli olarak gerçekleştirilmiştir. Ekip içi iletişimde zaman zaman zorluklar yaşansa da, günlük kısa toplantılarla ilerleme sağlanmaya çalışılmıştır.
+
+---
+
+## Sprint Notları  
+- Figma’da DiaSugarCare uygulamasının temel arayüz tasarımı tamamlanmıştır.  
+- Uygulama, web versiyonu şeklinde hazırlanmış ve chatbot entegrasyonu eklenmiştir.  
+- Chatbot, diyabet hastalarına günlük şeker tüketimleri hakkında öneriler sunacak şekilde tasarlanmıştır.  
+- Ancak, takım içinde rol dağılımında ciddi dengesizlikler yaşanmış, bu nedenle bazı planlanan özellikler tamamlanamamıştır.  
+- Eksik kalan ürün teslimatı nedeniyle tam işlevsel bir çıktı elde edilememiştir.  
+- Takım içi koordinasyon ve iletişim geliştirilmesi acil öncelik olarak belirlenmiştir.
+
+---
+
+## Figma: 
+
+https://www.figma.com/make/gb0N9WztEAx5xSxfkrn26k/DiaSugarCare-Mobile-Health-App?node-id=0-1&p=f&t=negoSaaoRGgeR4Ku-0&fullscreen=1
+
+## Sprint İçinde Tamamlanması Beklenen Puan  
+Toplam hedef puan: 36  
+Sprint 1 hedefi: 10  
+Sprint 2 hedefi: 10  
+Sprint 3 hedefi: 20
+
+---
+
+## Gerçekleştirilen Puan  
+Sprint 3’te tamamlanan puan: 12 (tasarım tamamlanması, chatbot entegrasyonu ve web versiyonun hazırlanması ağırlıklı)
+
+---
+
+## Tamamlanan Backlog Görevleri
+
+| User Story                 | Açıklama                                           | Puan | Durum     | Sorumlu        |
+|---------------------------|---------------------------------------------------|-------|-----------|----------------|
+| Arayüz Tasarımının Tamamlanması | Figma'da uygulama arayüzü tamamlandı              | 6     | Tamamlandı| Web Geliştirici|
+| Web Versiyonun Hazırlanması| Uygulama web versiyonu olarak tasarlandı           | 4     | Tamamlandı| Web Geliştirici|
+| Chatbot Entegrasyonu       | Diyabet hastaları için öneri veren chatbot eklendi| 4     | Tamamlandı| AI Uzmanı      |
+
+---
+
+## Sprint Review  
+- Uygulamanın web versiyonu çalışır hale getirilmiştir.  
+- Chatbot başarıyla entegre edilmiştir ve temel öneri işlevleri test edilmiştir.  
+- Tasarım final hale getirilmiş ve kullanıcı dostu arayüz tamamlanmıştır.  
+- Takım içi dengesizlikler ve iletişim sorunları nedeniyle diğer özellikler tamamlanamamıştır.
+
+---
+
+## Sprint Review Katılımcıları  
+Dilan Acur, Simge Yiğit , Ahmet Karpuz, Serdar Acar
+
+---
+
+## Sprint Retrospektifi  
+- Rol dağılımındaki dengesizlikler projeyi olumsuz etkiledi.  
+- İletişim yetersizliği nedeniyle planlanan işleri tamamlamak zor oldu.  
+- Takım koordinasyonu ve iş paylaşımı konusunda iyileştirmeler yapılmalı.  
+- Gelecek sprintlerde bu sorunların çözülmesi öncelikli hedef olarak belirlendi.
+
+---
+
+
+
+
+
+
